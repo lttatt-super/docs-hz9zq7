@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-qbpdig.gopay303cmd.cfd/sitemap.xml
